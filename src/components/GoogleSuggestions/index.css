@@ -46,6 +46,7 @@
   width: 90%;
   font-family: 'Roboto';
   font-size: 16px;
+  outline:none;
 }
 .search--input-container {
   display: flex;
